@@ -1,3 +1,11 @@
+# Derin's First CS193 Homework
+
+-The instructors are really funny and pick good memes.
+-The course is built to be helpful, and the syllabus content shows as such.
+-Instructors respond punctually and well to questions on edDiscussion.
+-Extra credit!
+-I've heard from many CS majors that this course really helped them with internships, GitHub, Git, and Terminal.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
